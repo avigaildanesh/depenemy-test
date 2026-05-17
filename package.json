@@ -8,6 +8,7 @@
     "react": "17.0.0",
     "moment": "2.24.0",
     "webpack": "5.106.2",
-    "node-ipc": "10.1.1"
+    "node-ipc": "10.1.1",
+    "minimist": "1.2.0"
   }
 }
